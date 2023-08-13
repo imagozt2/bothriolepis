@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Btrlps>Bothriolepis gigante</Btrlps>
+      <Btrlps_stt>Bothriolepis gigante</Btrlps_stt>
+      <Btrlps_lower>El Bothriolepis gigante</Btrlps_lower>
+      <Btrlps_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bothriolepis gigante</b>
+         </color>
+         <br/>
+         Haga clic y seleccione un Bothriolepis gigante.
+      </Btrlps_ltt>
+</entityname>
+<zoopedia_btrlps>
+ <entry>Bothriolepis gigante</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Btrlps/Btrlps_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Placodermo <i>(Peces acorazados)</i><br/>Orden: Antiarchiformes <i>(Bothriolepoidei)</i><br/>Familia: Bothriolepidae <i>(Bothriolepids)</i><br/>Gender: <i>Bothriolepis</i><br/>Especie: <i>B. Maxima</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos del Bothriolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es un placodermo del Devonico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">El Bothriolepis gigante era la especie mas grande del genero.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un bothriolepis gigante necesitas 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Hay unas 100 especies de bothriolepis en todos los continentes, pero entre ellas y todos los placodermos antiarchios Bothriolepis maxima era la mas grande, ya que podia llegar a medir 1 metro. Era un pez de fondo que comia las cosas del suelo. Aunque los fosiles se encuentran en sedimentos de agua dulce, Bothriolepis se presume haber pasado la mayor parte de su vida adentro de agua dulce los rios y los lagos, pero podian probablemente entrar en agua salada tambien porque su gama aparecia haber correspondido con las lineas de la costa continentales del Devoniano. Muchos paleontologos presumen que eran anadromos, es decir, vivieron realmente en agua salada, y volvieron de agua dulce a la casta, similar a los salmones. Su cuerpo encajonado fue incluido en las placas de armadura, proporcionando la proteccion contra depredadores..
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de Wikipedia
+  <p/>Hecho por imago
+  </cell>
+ </text>
+</zoopedia_btrlps>
+</ZT2Strings>

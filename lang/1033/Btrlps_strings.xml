@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Btrlps>Giant Bothriolepis</Btrlps>
+      <Btrlps_stt>Giant Bothriolepis</Btrlps_stt>
+      <Btrlps_lower>The Giant Bothriolepis</Btrlps_lower>
+      <Btrlps_ltt>
+         <color r="255" g="248" b="178">
+            <b>Giant Bothriolepis</b>
+         </color>
+         <br/>
+         Cick to select the Giant Bothriolepis.
+      </Btrlps_ltt>
+</entityname>
+<zoopedia_btrlps>
+ <entry>Giant Bothriolepis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Btrlps/Btrlps_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Tetis sea<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clas: Placoderma <i>(Armored fish)</i><br/>Order: Antiarchidae <i>(Bothriolepoidei)</i><br/>Family: Bothriolepidae <i>(Bothriolepids)</i><br/>Genera: <i>Bothriolepis</i><br/>Species: <i>B. Maxima</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Facts of Giant Bothriolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Giant Bothriolepis measure 1 meter.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Live in Devonian.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Need 1/2 stars to adopt the Giant Bothriolepis.
+   </color>
+   <p/>Bothriolepis ("pitted scale" or "trench scale") was the most successful genus of antiarch placoderms, if not the most successful genus of any placoderm, with over 100 species spread across Middle to Late Devonian strata across every continent. Most species of Bothriolepis were relatively small, benthic, freshwater detrivores, averaging around 30 centimetres in length. However, the largest species, B. maxima, had a carapace about 100 centimetres in length. Bothriolepis fossils are found in Middle and Late Devonian strata (387–360 million years ago). Because the fossils are found in freshwater sediments, Bothriolepis is presumed to have spent most of its life in freshwater rivers and lakes, but was probably able to enter salt water as well because its range appeared to have corresponded with the Devonian continental coastlines. Many paleontologists hypothesize that they were anadromous, that is, they lived most of their lives in saltwater, and returned to freshwater only to breed, similar to salmon. Its box-like body was enclosed in armor plates, providing protection from predators. Being a typical antiarch, it had a heavily armoured head attached to the thoracic shield. It had a long pair of spine-like pectoral fins, jointed at the base, and again a little more than halfway along. These spike-like fins were probably used to lift the body clear off the bottom; its heavy armor would have made it sink quickly as soon as it lost forward momentum. Bothriolepis had a peculiar spiral, sediment-filled gut and probably grubbed in the mud. It may also have used its pectoral fins to throw sediment (mud, sand or otherwise) over itself. There are two openings through its head: a keyhole opening along the midline on the upper side for the eyes and nostrils and a mouth on the lower side near the front. It also had a special feature on its skull, a separate partition of bone below the opening for the eyes and nostrils enclosing the nasal capsules called a preorbital recess. It had gills in addition to a pair of pouches off the esophagus that, according to scientific speculation, may have functioned as lungs. It has been hypothesized that these lungs, coupled with the jointed arms and rigid, supportive skeleton, would allow Bothriolepis to travel on land. Bothriolepis had a slender fish-like tail that extended behind the heavily armored portion, which is unfortunately rarely preserved in fossils.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Info from Wikipedia
+  <p/>Maked by Imago
+  </cell>
+ </text>
+</zoopedia_btrlps>
+</ZT2Strings>
